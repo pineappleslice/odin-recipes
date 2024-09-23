@@ -1,0 +1,13 @@
+h1, h2, h3 {
+    font-family: 'Oswald', 'Fjalla One', sans-serif;
+    font-weight: bold;
+}
+
+li {
+    font-family: 'Noto Sans', 'Helvetica', sans-serif;
+}
+
+img {
+    height: auto;
+    width: 900px;
+}
